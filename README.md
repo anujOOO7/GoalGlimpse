@@ -1,4 +1,4 @@
-Check it out at - [todo-web-app]([https://itsrakesh.co](https://github.com/anujOOO7/todo-web-app))
+Check it out at - [todo-web-app](https://github.com/anujOOO7/todo-web-app)
 
 
 Made with
