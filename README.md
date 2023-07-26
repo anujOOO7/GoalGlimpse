@@ -1,3 +1,15 @@
+Check it out at - [todo-web-app]([https://itsrakesh.co](https://github.com/anujOOO7/todo-web-app))
+
+
+Made with
+
+- ReactJs
+
+Deployed with
+
+- Netlify
+  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
